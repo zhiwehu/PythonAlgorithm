@@ -12,6 +12,7 @@ All the data structures including:
 
  are implemented in this repository along with their relevant functions. 
 
-P.S: Its was an empty, forked repository earlier and it is intended to make a PR daily with a new data stucture so presence of any specific data structure is subjected to its pull request. If its not found, it will be uploaded later.
+##### P.S: I
 
-Note: View Branches for unavailable data structure as I'm waiting to get a merge with the original repo.
+* ts was an empty, forked repository earlier and it is intended to make a PR daily with a new data stucture so presence of any specific data structure is subjected to its pull request. If its not found, it will be uploaded later.
+* View Branches for unavailable data structure as I'm waiting to get a merge with the original repo.
