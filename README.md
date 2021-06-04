@@ -2,7 +2,7 @@
 
 All the data structures including:
 
-* singly linklist
+* Singly linklist
 * Doubly linklist
 * Stacks
 * Queues
