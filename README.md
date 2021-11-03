@@ -8,6 +8,7 @@ All the data structures including:
 * Queues
 * Binary search tree
 * Graph
+* Heaps
 * Pairing heaps etc 
 
  are implemented in this repository along with their relevant functions. 
